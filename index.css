@@ -1,0 +1,55 @@
+body{
+
+text-align:center;
+
+background-color:grey;
+
+}
+
+h1{
+
+font-family: Sans-serif;
+
+font-size:45pt;
+
+}
+
+h3{
+
+font-size:medium;
+
+color:dark;
+
+}
+
+#image{
+
+height: auto;
+
+max-width: 625px;
+
+margin-left: auto;
+
+margin-right: auto;
+
+display: block;
+
+}
+
+#tribute-link{
+
+font-family:Monospace;
+
+}
+
+#img-div{
+
+background-color:white;
+
+}
+
+#img-caption{
+
+font: italic bold 12pt/14pt Times, serif;
+
+}
